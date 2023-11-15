@@ -19,6 +19,10 @@ Our toolkit is brimming with powerful instruments to help us navigate this cinem
 Power BI: With Power BI, we create visualizations that will transport you to the heart of our discoveries, making it an interactive experience.
 Highlights from Our Expedition
 
+<img width="1092" alt="Screenshot 2023-11-15 at 00 51 27" src="https://github.com/PaulIsmael/R-Studio-and-Power-Bi-Project/assets/150025834/ed6bb53d-a774-45fa-a039-8a5ad13b0c4c">
+
+
+
 #### Our journey through the dataset reveals some remarkable findings:
 
 <b>Data Cleaning:</b> Before our adventure began, we meticulously cleaned the dataset, ensuring it shines with accuracy.
